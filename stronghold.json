@@ -1,0 +1,10 @@
+{
+    "title": "Stronghold",
+    "items": [
+        {
+            "name": "Hinterhältiges Wiesel",
+            "soundPath": "stronghold/Insult19.wav",
+            "imagePath": "stronghold/ratte.png"
+        }
+    ]
+}
