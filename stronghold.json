@@ -5,8 +5,8 @@
     "items": [
         {
             "name": "Hinterhältiges Wiesel",
-            "soundPath": "stronghold/Insult19.wav",
-            "imagePath": "stronghold/ratte.png"
+            "soundPath": "stronghold/sounds/Insult19.wav",
+            "imagePath": "stronghold/images/ratte.png"
         }
     ]
 }
