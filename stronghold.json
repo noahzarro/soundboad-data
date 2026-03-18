@@ -1,5 +1,7 @@
 {
     "title": "Stronghold",
+    "version": "0.0",
+    "rootUrl": "https://raw.githubusercontent.com/noahzarro/soundboad-data/refs/heads/main/",
     "items": [
         {
             "name": "Hinterhältiges Wiesel",
