@@ -1,0 +1,22 @@
+{
+    "title": "Attila",
+    "version": "0.0",
+    "configUrl": "https://raw.githubusercontent.com/noahzarro/soundboad-data/refs/heads/main/attila.json",
+    "items": [
+        {
+            "name": "IIIääää",
+            "soundPath": "attila/sounds/IIIääää.mp3",
+            "imagePath": "attila/images/calvin_1.jpg"
+        },
+        {
+            "name": "Agi",
+            "soundPath": "attila/sounds/Agi.mp3",
+            "imagePath": "attila/images/calvin_2.jpg"
+        },
+        {
+            "name": "Vollasi",
+            "soundPath": "attila/sounds/Vollasi.mp3",
+            "imagePath": "attila/images/calvin_3.jpg"
+        }
+    ]
+}
