@@ -7,6 +7,41 @@
             "name": "Hinterhältiges Wiesel",
             "soundPath": "stronghold/sounds/Insult19.wav",
             "imagePath": "stronghold/images/ratte.png"
+        },
+        {
+            "name": "Kornspeicher",
+            "soundPath": "stronghold/sounds/Food_Warning5.mp3",
+            "imagePath": "stronghold/images/kornspeicher.png"
+        },
+        {
+            "name": "Guten Morgen",
+            "soundPath": "stronghold/sounds/Peasant_Male1.mp3",
+            "imagePath": "stronghold/images/guten_morgen.png"
+        },
+        {
+            "name": "Hopfen",
+            "soundPath": "stronghold/sounds/Resource_Need6.mp3",
+            "imagePath": "stronghold/images/hopfen.png"
+        },
+        {
+            "name": "Holz",
+            "soundPath": "stronghold/sounds/Resource_Need22.mp3",
+            "imagePath": "stronghold/images/holz.png"
+        },
+        {
+            "name": "Graben",
+            "soundPath": "stronghold/sounds/Spear_Moat1.mp3",
+            "imagePath": "stronghold/images/graben.png"
+        },
+        {
+            "name": "Volk Verabscheut",
+            "soundPath": "stronghold/sounds/Pop_Popularity7.mp3",
+            "imagePath": "stronghold/images/beliebtheit.png"
+        },
+        {
+            "name": "Ab ins Loch",
+            "soundPath": "stronghold/sounds/Tunnel_Digtunnel1.mp3",
+            "imagePath": "stronghold/images/loch.png"
         }
     ]
 }
