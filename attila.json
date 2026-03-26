@@ -1,6 +1,6 @@
 {
     "title": "Attila",
-    "version": "0.0",
+    "version": "0.1",
     "configUrl": "https://raw.githubusercontent.com/noahzarro/soundboad-data/refs/heads/main/attila.json",
     "items": [
         {
@@ -17,6 +17,11 @@
             "name": "Vollasi",
             "soundPath": "attila/sounds/Vollasi.mp3",
             "imagePath": "attila/images/calvin_3.jpg"
+        },
+        {
+            "name": "Hopfentorpedo",
+            "soundPath": "attila/sounds/hopfentorpedo.mp3",
+            "imagePath": "attila/images/hopfentorpedo.jpg"
         }
     ]
 }
