@@ -4,9 +4,9 @@
     "configUrl": "https://raw.githubusercontent.com/noahzarro/soundboad-data/refs/heads/main/osman.json",
     "items": [
         {
-            "name": "Gnau das meini",
-            "soundPath": "osman/sounds/genau_das_meini.mp3",
-            "imagePath": "osman/images/genau_das_meini.png"
+            "name": "Gnau des meini",
+            "soundPath": "osman/sounds/gnau_des_meini.mp3",
+            "imagePath": "osman/images/gnau_des_meini.png"
         },
         {
             "name": "Grad Nervös",
