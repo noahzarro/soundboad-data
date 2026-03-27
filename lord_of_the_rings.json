@@ -1,0 +1,32 @@
+{
+    "title": "Herr der Ringe",
+    "version": "0.0",
+    "configUrl": "https://raw.githubusercontent.com/noahzarro/soundboad-data/refs/heads/main/lord_of_the_rings.json",
+    "items": [
+        {
+            "name": "Garstig Bratkartoffeln",
+            "soundPath": "lord_of_the_rings/sounds/behalte.mp3",
+            "imagePath": "lord_of_the_rings/images/gollum.png"
+        },
+        {
+            "name": "Tüften",
+            "soundPath": "lord_of_the_rings/sounds/was_sind_tueften.mp3",
+            "imagePath": "lord_of_the_rings/images/frodo.png"
+        },
+        {
+            "name": "Kartoffeln",
+            "soundPath": "lord_of_the_rings/sounds/kartoffeln.mp3",
+            "imagePath": "lord_of_the_rings/images/kartoffeln.png"
+        },
+        {
+            "name": "Isengard",
+            "soundPath": "lord_of_the_rings/sounds/isengard.mp3",
+            "imagePath": "lord_of_the_rings/images/isengard.png"
+        },
+        {
+            "name": "My Precious",
+            "soundPath": "lord_of_the_rings/sounds/my_precious.mp3",
+            "imagePath": "lord_of_the_rings/images/my_precious.png"
+        }
+    ]
+}

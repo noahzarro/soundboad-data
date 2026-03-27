@@ -1,0 +1,32 @@
+{
+    "title": "Osman",
+    "version": "0.0",
+    "configUrl": "https://raw.githubusercontent.com/noahzarro/soundboad-data/refs/heads/main/osman.json",
+    "items": [
+        {
+            "name": "Gnau das meini",
+            "soundPath": "osman/sounds/genau_das_meini.mp3",
+            "imagePath": "osman/images/genau_das_meini.png"
+        },
+        {
+            "name": "Grad Nervös",
+            "soundPath": "osman/sounds/grad_nervös.mp3",
+            "imagePath": "osman/images/grad_nervös.png"
+        },
+        {
+            "name": "Jede was er will",
+            "soundPath": "osman/sounds/jede_mache_was_er_will.mp3",
+            "imagePath": "osman/images/jede_mache_was_er_will.png"
+        },
+        {
+            "name": "Panane",
+            "soundPath": "osman/sounds/panane.mp3",
+            "imagePath": "osman/images/panane.png"
+        },
+        {
+            "name": "Wetsch Fettli",
+            "soundPath": "osman/sounds/wetsch_fetli.mp3",
+            "imagePath": "osman/images/wetsch_fetli.png"
+        }
+    ]
+}
